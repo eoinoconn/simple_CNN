@@ -162,3 +162,4 @@ venv.bak/
 *.iml
 out
 gen
+*.pickle
